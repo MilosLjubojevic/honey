@@ -3,6 +3,7 @@ import Pocetna from "./pages/Pocetna";
 import Proizvodi from "./pages/Proizvodi";
 import OpisSajta from "./pages/OpisSajta";
 import NavBar from "./components/NavBar";
+
 function App() {
   return (
     <>

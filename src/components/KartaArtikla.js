@@ -1,5 +1,5 @@
 import CounterButton from "./CounterButton";
-import BuyButton from "./BuyButton";
+
 function KartaArtikla({ title, about, price, img }) {
   return (
     <div className="border border-black border rounded-md p-4 w-48 h-86 bg-gray-50">
