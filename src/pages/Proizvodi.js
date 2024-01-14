@@ -6,8 +6,8 @@ import sajt3 from "../images/sajt3.jpg";
 function Proizovid() {
   return (
     <>
-      <div className="h-96 bg-orange-100 ">
-        <div className="flex justify-center gap-6 mt-12 ">
+      <div className="h-96 bg-orange-100 overflow-auto">
+        <div className="flex justify-center gap-6 mt-12 overflow-auto ">
           <KartaArtikla
             img={sajt1}
             title="Malina Med"
